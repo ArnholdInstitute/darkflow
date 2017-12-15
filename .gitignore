@@ -1,4 +1,6 @@
 
+venv
+*.so
 # Python bytecode
 *.pyc
 
